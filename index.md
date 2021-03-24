@@ -484,6 +484,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dr Neil Smith
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Graham (Kubernetes)
+1. Dylan Baker (Mesa, Meson)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
 1. Dylan McCall (@dylanmccall)
 1. Eddie Horton (Northwestern State University)
@@ -534,8 +535,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Esther Payne (Librecast Project)
 1. Esther Weidauer
 1. Ethan Djeric
-1. Ethan Atchley (Ataraxia GNU/Linux and Dang Small Linux developer)
-
 1. Étienne Mollier (Debian Maintainer)
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
@@ -553,7 +552,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Fahad Hossain
 1. Faith Jasmine Viola
 1. Fanael Linithien
-1. Farkhad Akmuratov
 1. Faye Duxovni
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
